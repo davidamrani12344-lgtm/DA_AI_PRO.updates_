@@ -1,5 +1,11 @@
 {
-  "version": "2.13.6",
+  "version": "2.15.0",
   "url": "https://github.com/davidamrani12344-lgtm/DA_AI_PRO.updates_/raw/main/DA_AI_PRO.apk",
-  "notes": "אבחון מדויק של מפתח הבינה."
+  "notes": "⚡ מעכשיו האפליקציה מתעדכנת מבפנים — בלי להתקין מחדש.\n🎨 מדבקות AI מצוירות עם Gemini, עם מסגרת לבנה חלקה.\n🎁 3 ימי ניסיון ומסלולי מנוי.",
+  "web": {
+    "version": "2.15.0",
+    "url": "https://github.com/davidamrani12344-lgtm/DA_AI_PRO.updates_/raw/main/web.zip?v=2.15.0",
+    "minApk": "2.15.0",
+    "notes": "⚡ מעכשיו האפליקציה מתעדכנת מבפנים — בלי להתקין מחדש.\n🎨 מדבקות AI מצוירות עם Gemini, עם מסגרת לבנה חלקה.\n🎁 3 ימי ניסיון ומסלולי מנוי."
+  }
 }
